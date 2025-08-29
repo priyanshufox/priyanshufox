@@ -15,11 +15,14 @@ Currently exploring **distributed systems & AI integrations** 🚀
 
 ---
 
-## 🛠️ Tech Playground
-- **Languages:** Java · Python · JavaScript · TypeScript · SQL  
-- **Frameworks & Tools:** Node.js · Express.js · React · Next.js · FastAPI · Flask · Docker · GitHub Actions · AWS  
-- **Databases:** MongoDB · PostgreSQL  
-- **Special Interests:** Backend Architecture · Scalability · Performance Optimization  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sqlite,nodejs,express,react" height="55"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,flask,docker,githubactions,aws,mongodb,postgresql" height="55"/>
+</p>
 
 ---
 
@@ -50,4 +53,3 @@ Stack: MERN · Next.js · MongoDB.
 - 🚀 Building **scalable apps** at startups.  
 - 🔐 Learning more about **system security & distributed computing**.  
 - 📖 Solving DSA problems (**200+ on LeetCode ✅**).  
-
